@@ -2,5 +2,5 @@ pymupdf==1.23.7
 sentence-transformers==2.2.2
 numpy==1.24.4
 scikit-learn==1.3.0
-shiny==0.4.0
+shiny==1.3.0
 huggingface-hub==0.19.4
